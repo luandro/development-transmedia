@@ -1,0 +1,23 @@
+{
+  "name": "development-transmedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luandro/development-transmedia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luandro/development-transmedia/issues"
+  },
+  "homepage": "https://github.com/luandro/development-transmedia#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
